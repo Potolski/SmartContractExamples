@@ -6,3 +6,4 @@ The purpose of this repository is to store important examples of smart contracts
 - [Token Swap](./contracts/TokenSwap)
 - [Merkle Tree](./contracts/MerkleTree/MerkleTree.sol)
 - [Merkle Proof](./contracts/MerkleTree/MerkleProof.sol)
+- [Airdrop using MerkleTree](./contracts/Airdrop/Airdrop.sol)
